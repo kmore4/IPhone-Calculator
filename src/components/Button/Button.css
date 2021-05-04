@@ -17,7 +17,7 @@
 }
 
 .Button.zero {
-    width: 250px;
+    width: 240px;
     grid-column: 1 / span 2;
     border-radius: 57.5px;
     position: relative;
